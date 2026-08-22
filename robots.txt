@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://winghamductcleaning.ca/sitemap-index.xml
