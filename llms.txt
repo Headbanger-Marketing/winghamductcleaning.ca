@@ -1,2 +1,25 @@
 # Wingham Duct Cleaning
-HVAC services in Ontario.
+
+> Wingham Duct Cleaning is a local HVAC company serving Wingham, Huron, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 357-0136  |  Email: contact@winghamductcleaning.ca  |  Website: https://winghamductcleaning.ca
+
+## Key pages
+
+- [Home](https://winghamductcleaning.ca/): Wingham Duct Cleaning homepage with service overview and FAQ
+- [About](https://winghamductcleaning.ca/about/): About the company and service area
+- [Contact](https://winghamductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://winghamductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Wingham, Ontario
+- [Dryer Vent Cleaning](https://winghamductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Wingham, Ontario
+- [Furnace & AC Cleaning](https://winghamductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Wingham, Ontario
+- [HRV & Ventilation Cleaning](https://winghamductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Wingham, Ontario
+- [Duct Sanitizing & Deodorizing](https://winghamductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Wingham, Ontario
+- [Duct Sealing & Repair](https://winghamductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Wingham, Ontario
+- [Commercial Duct Cleaning](https://winghamductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Wingham, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Wingham are answered on the homepage.
